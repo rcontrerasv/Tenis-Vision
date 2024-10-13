@@ -7,7 +7,7 @@ sections:
       text: Mejora tu rendimiento en la cancha con análisis de alta precisión
       color: text-dark
       type: TitleBlock
-    subtitle: Descubre cómo nuestro análisis optimiza tu juego
+    subtitle: Optimiza tu rendimiento con nuestra tecnología avanzada
     text: >
       Con Tenis Vision, lleva tu juego al siguiente nivel. Captura cada
       movimiento, obtén estadísticas en tiempo real y mejora tu estrategia de
