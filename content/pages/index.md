@@ -13,7 +13,7 @@ sections:
       movimiento, obtén estadísticas en tiempo real y mejora tu estrategia de
       forma inteligente.
     actions:
-      - label: Reserva ahora
+      - label: Reserva Ahora
         altText: ''
         url: /
         showIcon: false
