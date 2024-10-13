@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Descubre cómo nuestro análisis optimiza tu juego
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Con Tenis Vision, lleva tu juego al siguiente nivel. Captura cada
+      movimiento, obtén estadísticas en tiempo real y mejora tu estrategia de
+      forma inteligente. La tecnología avanzada de nuestra plataforma te permite
+      analizar tu rendimiento para que siempre juegues a tu mejor nivel
     actions:
       - label: Get started
         altText: ''
