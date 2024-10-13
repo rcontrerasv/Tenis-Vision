@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Mejora tu rendimiento en la cancha con análisis de alta precisión
+      text: Mejora tu juego con datos en tiempo real
       color: text-dark
       type: TitleBlock
     subtitle: Optimiza tu rendimiento con nuestra tecnología avanzada
