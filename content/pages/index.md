@@ -11,8 +11,7 @@ sections:
     text: >
       Con Tenis Vision, lleva tu juego al siguiente nivel. Captura cada
       movimiento, obtén estadísticas en tiempo real y mejora tu estrategia de
-      forma inteligente. La tecnología avanzada de nuestra plataforma te permite
-      analizar tu rendimiento para que siempre juegues a tu mejor nivel
+      forma inteligente.
     actions:
       - label: Get started
         altText: ''
