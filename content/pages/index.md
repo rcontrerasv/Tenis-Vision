@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Ver Demo
+      - label: Mira como funciona
         altText: ''
         url: /
         showIcon: true
