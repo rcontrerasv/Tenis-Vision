@@ -16,7 +16,7 @@ sections:
       - label: Reserva tu Sesión
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
